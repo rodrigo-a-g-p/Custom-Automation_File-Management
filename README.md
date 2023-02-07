@@ -1,4 +1,4 @@
-# Custom Automation
+# Custom Automation - File Management
 
 In this project, I created several scripts which allowed me to sort photos
 and videos on my hard drive. For the longest time I have had all my files 
